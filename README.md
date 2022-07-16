@@ -1,6 +1,6 @@
 # postgres_fdw
 Foreign Data Wrappers widely used feature of PostgreSQL
 
-- one
-- two
-- three
+1. one
+2. two
+3. three
